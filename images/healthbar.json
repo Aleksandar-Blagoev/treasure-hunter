@@ -1,0 +1,63 @@
+{"frames": {
+
+"healthbar_01.png":
+{
+	"frame": {"x":0,"y":0,"w":228,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":58},
+	"sourceSize": {"w":228,"h":58}
+},
+"healthbar_02.png":
+{
+	"frame": {"x":228,"y":0,"w":206,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":53},
+	"sourceSize": {"w":206,"h":53}
+},
+"healthbar_03.png":
+{
+	"frame": {"x":434,"y":0,"w":195,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":195,"h":55},
+	"sourceSize": {"w":195,"h":55}
+},
+"healthbar_04.png":
+{
+	"frame": {"x":629,"y":0,"w":235,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":53},
+	"sourceSize": {"w":235,"h":53}
+},
+"healthbar_05.png":
+{
+	"frame": {"x":864,"y":0,"w":214,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":54},
+	"sourceSize": {"w":214,"h":54}
+},
+"healthbar_06.png":
+{
+	"frame": {"x":1078,"y":0,"w":168,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":45},
+	"sourceSize": {"w":168,"h":45}
+}},
+"animations": {
+	"healthbar": ["healthbar_01.png","healthbar_02.png","healthbar_03.png","healthbar_04.png","healthbar_05.png","healthbar_06.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "healthbar.png",
+	"format": "RGBA8888",
+	"size": {"w":1246,"h":58},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e29d98ab13955f51eaa9a21cb54deb52:bcda7eeafbee2bc467fa5966a6c66126:ea6f465831e31bd936c973183f85411d$"
+}
+}
