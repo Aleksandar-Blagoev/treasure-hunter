@@ -12,7 +12,7 @@ To run this game locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-git https://github.com/Aleksandar-Blagoev/treasure-hunter.git
+https://github.com/Aleksandar-Blagoev/treasure-hunter.git
 
 2. Navigate to the project directory:
 cd treasure-hunter
