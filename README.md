@@ -37,9 +37,6 @@ cd treasure-hunter
 - Arrow Keys: Move the explorer.
 - Left Mouse Click: Fire bullets (Level 3 only).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
